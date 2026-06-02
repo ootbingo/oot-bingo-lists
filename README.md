@@ -34,6 +34,7 @@ npm install --save oot-bingo-lists
 * `v10.4`
 * `v10.5`
 * `v10.5.1`
+* `v10.6`
 
 ## Usage
 
