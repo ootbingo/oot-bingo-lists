@@ -1,6 +1,6 @@
 {
   "name": "oot-bingo-lists",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Goal Lists for OoT Bingo",
   "main": "build/index.js",
   "types": "build/index.d.ts",
