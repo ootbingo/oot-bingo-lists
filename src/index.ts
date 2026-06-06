@@ -36,7 +36,7 @@ const bingoListPerVersion = {
   "v10.4": { bingoList: bingoList_v10_4, generator: Generator_V1 },
   "v10.5": { bingoList: bingoList_v10_5, generator: Generator_V1 },
   "v10.5.1": { bingoList: bingoList_v10_5_1, generator: Generator_V1 },
-  "v10.6": { bingoList: bingoList_v10_5_1, generator: Generator_V1 },
+  "v10.6": { bingoList: bingoList_v10_6, generator: Generator_V1 },
 } as const;
 
 export type BingoVersion = keyof typeof bingoListPerVersion;
